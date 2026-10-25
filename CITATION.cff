@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the dataset, please cite them as below."
+title: "Drift Compensated Spectrum Forecasting and Bayes Exact Allocation on a Real World Four Environment 2.4 GHz Dataset under Federated Learning"
+authors:
+  - family-names: Mahabub
+    given-names: Atik
+    affiliation: "Institut National de la Recherche Scientifique (INRS-EMT)"
+  - family-names: Vakili
+    given-names: Shervin
+    affiliation: "Institut National de la Recherche Scientifique (INRS-EMT)"
+license: MIT
+type: software
+references:
+  - type: dataset
+    title: "A Real-World 2.4 GHz Wi-Fi/ISM Spectrum Occupancy Dataset from Four Indoor Environments for Forecasting, Allocation and Sharing"
+    authors:
+      - family-names: Mahabub
+        given-names: Atik
+      - family-names: Vakili
+        given-names: Shervin
+    publisher:
+      name: IEEE DataPort
+    year: 2026
+    doi: 10.21227/2zh7-zk86
